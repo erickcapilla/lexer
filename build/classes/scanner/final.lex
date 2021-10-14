@@ -1,0 +1,102 @@
+Linea 1:
+	Identificador: Resultado
+	Simbolo: =
+	Identificador: inicio
+	Signo: +
+	Identificador: velocidad
+	Signo: *
+	Numero: 60
+	Simbolo: ;
+Linea 2:
+	Reservada: if
+	Simbolo: (
+	Identificador: Resultado
+	Operador: >=
+	Numero: 100
+	Simbolo: )
+	Simbolo: {
+Linea 3:
+	Identificador: velocidad
+	Simbolo: =
+	Identificador: inicio
+	Simbolo: ;
+Linea 4:
+	Identificador: inicio
+	Operador: ++
+	Simbolo: ;
+Linea 5:
+	Simbolo: }
+Linea 6:
+	Reservada: for
+	Simbolo: (
+	Reservada: int
+	Identificador: i
+	Simbolo: =
+	Numero: 0
+	Simbolo: ;
+	Identificador: i
+	Operador: <
+	Numero: 12
+	Simbolo: ;
+	Identificador: i
+	Operador: ++
+	Simbolo: )
+	Identificador: x2
+	Simbolo: =
+	Identificador: y3
+	Simbolo: ;
+Linea 7:
+	Identificador: x2
+	Simbolo: =
+	Identificador: incio
+	Signo: +
+	Simbolo: (
+	Identificador: y3
+	Signo: *
+	Numero: 63
+	Simbolo: )
+	Simbolo: ;
+Linea 8:
+	Reservada: if
+	Simbolo: (
+	Identificador: x2
+	Operador: ==
+	Identificador: inicio
+	Simbolo: )
+	Identificador: velocidad
+	Operador: ++
+	Simbolo: ;
+Linea 9:
+	Identificador: y3
+	Operador: ++
+	Simbolo: ;
+Linea 10:
+	Reservada: while
+	Simbolo: (
+	Identificador: y3
+	Operador: >
+	Numero: 5
+	Simbolo: )
+	Simbolo: {
+Linea 11:
+	Identificador: x2
+	Operador: --
+	Simbolo: ;
+Linea 12:
+	Identificador: inicio
+	Simbolo: =
+	Identificador: x2
+	Signo: *
+	Identificador: y3
+	Simbolo: ;
+Linea 13:
+	Reservada: String
+	Simbolo: =
+Simbolo no definido
+	Identificador: Cadena
+	Numero: 01
+Simbolo no definido
+	Simbolo: ;
+Linea 14:
+	Simbolo: }
+
